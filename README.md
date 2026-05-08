@@ -1,4 +1,4 @@
-## hi 
+## Hi 
 I am Neal.
 
 - 🌱 I’m currently learning everything there is to learn in tech
