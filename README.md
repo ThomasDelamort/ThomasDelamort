@@ -1,9 +1,7 @@
 ## Hi 
 I am Neal.
-
 - 🌱 I’m currently learning everything there is to learn in tech
 - 🔭 I’m currently working on my projects duh.
-- 👯 I’m looking to collaborate on my projects duh
 - 🤔 I’m looking for help with my projects... duh
 - 📫 How to reach me: You can't I disappear all the time.
 - 😄 Pronouns: He... duh.
