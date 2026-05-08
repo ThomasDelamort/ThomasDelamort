@@ -20,6 +20,8 @@ I am Neal.
 
 
 I will literally massacre
+This was just for the funny. Please don't take this seriously.
+
 <!--
 **ThomasDelamort/ThomasDelamort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
