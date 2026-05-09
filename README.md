@@ -4,7 +4,6 @@ I am Neal.
 - 🔭 I’m currently working on my projects duh.
 - 🤔 I’m looking for help with my projects... duh
 - 📫 How to reach me: You can't I disappear all the time.
-- 😄 Pronouns: He... duh.
 
 
 
@@ -12,14 +11,6 @@ I am Neal.
 
 
 
-
-
-
-
-
-I will literally massacre.
-
-This was just for the funny. Please don't take this seriously.
 
 <!--
 **ThomasDelamort/ThomasDelamort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
