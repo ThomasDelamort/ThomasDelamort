@@ -1,8 +1,8 @@
 ## Hi 
 I am Neal.
 - 🌱 I’m currently learning everything there is to learn in tech
-- 🔭 I’m currently working on my projects
-- 🤔 I’m looking for help with my projects
+- 🔭 I’m currently working on my projects duh
+- 🤔 I’m looking for help with my projects duh
 
 
 
