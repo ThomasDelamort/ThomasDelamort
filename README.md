@@ -7,10 +7,10 @@ I am Neal.
 <br>
 <div style="display: inline-flex;">
   <h3>Programming Languages I use to build stuff</h3>
-  <img width="100" height="100" alt="Java" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-  <img width="100" height="100" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-  <img width="100" height="100" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
-  <img width="100" height="100" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+  <img width="45" height="45" alt="Java" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+  <img width="45" height="45" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+  <img width="45" height="45" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
+  <img width="45" height="45" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 </div>
 
 
