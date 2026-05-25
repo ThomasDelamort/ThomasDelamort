@@ -4,7 +4,7 @@ I am Neal.
 - 🔭 I’m currently working on my projects duh
 - 🤔 I’m looking for help with my projects duh
 
-<br>
+
 <div style="display: inline-flex;">
   <h3>Programming Languages I use to build stuff</h3>
   <img width="45" height="45" alt="Java" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
