@@ -13,7 +13,7 @@
        .oossssso-````/ossssss+`         CPU: Coffee + Determination
       -osssssso.      :ssssssso.        Memory: Unlimited Ideas
      :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-       Name: Neal
+    /ossssssss/        +ssssooo/-       Name: Christian Neal Paredes
   `/ossssso+/:-        -:/+osssso+-     Role: Student Developer
  `+sso+:-`                 `.-/+oso:    Languages: Java, JavaScript,
 `++:.                           `-/+/               TypeScript, Python, C++
