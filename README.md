@@ -1,36 +1,21 @@
-## Hi I am Neal
-- 🌱 I’m currently learning everything there is to learn in tech
-- 🔭 I’m currently working on my projects duh
-- 🤔 I’m looking for help with my projects duh
-
-
-<div style="display: inline-flex;">
-  <h3>Programming Languages I use, to build stuff</h3>
-  <img width="45" height="45" alt="Java" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-  <img width="45" height="45" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-  <img width="45" height="45" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png?_=20221110153201" />
-  <img width="45" height="45" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
-  <img width="45" height="45" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-</div>
-
-
-
-
-
-<!--
-**ThomasDelamort/ThomasDelamort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-This is just a joke 
--->
+`````bash
+                  -`                    neal@github
+                 .o+`                   -----------
+                `ooo/                   OS: Arch Linux (btw)
+               `+oooo:                  Host: Developer
+              `+oooooo:                 Kernel: Curiosity
+              -+oooooo+:                Uptime: Learning 24/7
+            `/:-:++oooo+:               Shell: zsh
+           `/++++/+++++++:              Editor: VS Code + JetBrains IDEs
+          `/++++++++++++++:             WM: Productivity
+         `/+++ooooooooooooo/`           Theme: Black & Red
+        ./ooosssso++osssssso+`          Terminal: Windows Terminal
+       .oossssso-````/ossssss+`         CPU: Coffee + Determination
+      -osssssso.      :ssssssso.        Memory: Unlimited Ideas
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-       Name: Neal
+  `/ossssso+/:-        -:/+osssso+-     Role: Student Developer
+ `+sso+:-`                 `.-/+oso:    Languages: Java, JavaScript,
+`++:.                           `-/+/               TypeScript, Python, C++
+.`                                         Status: Building Stuff™
+`````
