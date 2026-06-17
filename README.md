@@ -10,7 +10,7 @@
           `/++++++++++++++:             WM: Productivity
          `/+++ooooooooooooo/`           Theme: Black & Red
         ./ooosssso++osssssso+`          Terminal: Windows Terminal
-       .oossssso-````/ossssss+`         CPU: Coffee + Determination
+       .oossssso-````/ossssss+`         CPU: Java Chip + Determination
       -osssssso.      :ssssssso.        Memory: Unlimited Ideas
      :osssssss/        osssso+++.
     /ossssssss/        +ssssooo/-       Name: Christian Neal Paredes
