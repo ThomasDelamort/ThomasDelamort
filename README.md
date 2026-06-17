@@ -14,7 +14,7 @@
       -osssssso.      :ssssssso.        Memory: Unlimited Ideas
      :osssssss/        osssso+++.
     /ossssssss/        +ssssooo/-       Name: Christian Neal Paredes
-  `/ossssso+/:-        -:/+osssso+-     Role: Student Developer
+  `/ossssso+/:-        -:/+osssso+-     Role: Fullstack Dev
  `+sso+:-`                 `.-/+oso:    Languages: Java, JavaScript,
 `++:.                           `-/+/               TypeScript, Python, C++
 .`                                         Status: Building Stuff™
