@@ -1,7 +1,7 @@
 `````bash
                   -`                    neal@github
                  .o+`                   -----------
-                `ooo/                   OS: Arch Linux (btw)
+                `ooo/                   OS: Arch Linux (btw) & Windows 11
                `+oooo:                  Host: Developer
               `+oooooo:                 Kernel: Curiosity
               -+oooooo+:                Uptime: Learning 24/7
