@@ -13,7 +13,7 @@
        .oossssso-````/ossssss+`         CPU: Java Chip + Determination
       -osssssso.      :ssssssso.        Memory: Unlimited Ideas
      :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-       Name: Christian Neal Paredes
+    /ossssssss/        +ssssooo/-       Fullname: Christian Neal Paredes
   `/ossssso+/:-        -:/+osssso+-     Role: Fullstack Dev
  `+sso+:-`                 `.-/+oso:    Languages: Java, JavaScript,
 `++:.                           `-/+/               TypeScript, Python, C++
