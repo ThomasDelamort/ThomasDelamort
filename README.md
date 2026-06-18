@@ -17,5 +17,5 @@
   `/ossssso+/:-        -:/+osssso+-     Role: Fullstack Dev
  `+sso+:-`                 `.-/+oso:    Programming Languages: Java, JavaScript,
 `++:.                           `-/+/               TypeScript, Python, C++
-.`                                         Status: Building Stuff™
+.`                                      Status: Building Stuff™
 `````
