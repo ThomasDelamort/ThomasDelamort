@@ -15,7 +15,7 @@
      :osssssss/        osssso+++.
     /ossssssss/        +ssssooo/-       Fullname: Christian Neal Paredes
   `/ossssso+/:-        -:/+osssso+-     Role: Fullstack Dev
- `+sso+:-`                 `.-/+oso:    Programming Languages: Java, JavaScript,
-`++:.                           `-/+/                          TypeScript, Python, C++
+ `+sso+:-`                 `.-/+oso:    Programming Languages: 
+`++:.                           `-/+/   Java, JavaScript, TypeScript, Python, C++
 .`                                      Status: Building Stuff™
 `````
