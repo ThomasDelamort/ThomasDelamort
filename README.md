@@ -6,7 +6,7 @@
               `+oooooo:                 Kernel: Curiosity
               -+oooooo+:                Uptime: Learning 24/7
             `/:-:++oooo+:               Shell: zsh
-           `/++++/+++++++:              Editor: VS Code + JetBrains IDEs
+           `/++++/+++++++:              Editor: VS Code, JetBrains IDEs
           `/++++++++++++++:             WM: Productivity
          `/+++ooooooooooooo/`           Theme: Black & Red
         ./ooosssso++osssssso+`          Terminal: Windows Terminal
