@@ -5,7 +5,7 @@
                `+oooo:                  Host: Developer
               `+oooooo:                 Kernel: Curiosity
               -+oooooo+:                Uptime: Learning 24/7
-            `/:-:++oooo+:               Shell: zsh
+            `/:-:++oooo+:               Shell: Kitty
            `/++++/+++++++:              Editor: VS Code, JetBrains IDEs
           `/++++++++++++++:             WM: Productivity
          `/+++ooooooooooooo/`           Theme: Black & Red
